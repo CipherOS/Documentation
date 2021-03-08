@@ -1,8 +1,8 @@
-[IMG]https://raw.githubusercontent.com/StyxProject/stuff/master/art/header.png[/IMG]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/header.png[/IMG]
 [CENTER]
-The Styx Project is a custom Android based distribution that aims to subtly enhance the beauty of stock Android while still keeping the smoothness, stability, neatness and performance of pure AOSP. 
+CipherOS is a Android Custom OS, Based On AOSP & Fueled by Lineage, Striving to Provide its Users , A Clean , Bloat free & Sturdy Experience with Minimal Customisation ! 
 
-[CODE]/* Your warranty is now void.
+[CODE]/* Your warranty is now void or maybe not?
 *
 * I am not responsible for bricked devices, dead SD cards,
 * thermonuclear war, or you getting fired because the alarm app failed. Please
@@ -11,28 +11,21 @@ The Styx Project is a custom Android based distribution that aims to subtly enha
 * you point the finger at me for messing up your device, I will laugh at you.
 */[/CODE]
 
-With our first Android 11 release, we would like to bring <device> to the front, with the latest features, stability patches hot from the Styx Project development team.
+With the release of CipherOS INFERNO , We Ensure that Every OFFICIAL Device remains Up-to-date with latest Patches , Asap its been released by Google !
 
-[SIZE=6][B]Download it from [/B][/SIZE][URL='https://styxproject.tk'][SIZE=6][B]our website![/B][/SIZE][/URL]
+[SIZE=6][B]Download it from [/B][/SIZE][URL='https://cipheros.github.io'][SIZE=6][B]Our Website![/B][/SIZE][/URL]
 
-[IMG]https://raw.githubusercontent.com/StyxProject/stuff/master/art/team.png[/IMG][/CENTER]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/team.png[/IMG][/CENTER]
 The people working towards bringing you this release are:
 [LIST]
-[*][URL='https://github.com/gaganmalvi']Gagan Malvi[/URL] 
-[*][URL='https://github.com/markakash']Akash Srivastava[/URL]
-[*][URL='https://github.com/ItsVixano']Giovanni Ricca[/URL]
-[*][URL='https://github.com/kerichdev']Keri[/URL]
-[*][URL='https://github.com/AgentFabulous']Kshitij Gupta[/URL]
-[*][URL='https://github.com/humanglitch191']Mrithyunjay[/URL]
-[*][URL='https://github.com/neel685']Neel Mandal[/URL]
-[*][URL='https://github.com/HelixW']Shreyas K.[/URL]
-[*][URL='https://github.com/yashkumarverma']Yash Kumar Verma[/URL]
-[*][URL='https://github.com/Rasenkai']Yashodhan Sawardekar[/URL]
+[*][URL='https://github.com/techyminati']Aryan Sinha[/URL] 
+[*][URL='https://github.com/radeon7']Lokesh Vazirani[/URL]
+[*][URL='https://github.com/CyberJalagam']Jaishanav Prasad[/URL]
+[*][URL='https://github.com/SparXFusion']Sakthivel Nadar[/URL]
+[*][URL='https://github.com/JamieHoSzeYui']Jamie Ho[/URL]
+[*][URL='https://github.com/bhenom69']Bhenom[/URL]
 [/LIST]
-Our whole team comprising of maintainers. source developers and designers can be found at [URL]https://styxproject.tk/team.html[/URL].
-
-
-[IMG]https://raw.githubusercontent.com/StyxProject/stuff/master/art/installation.png[/IMG]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/installation.png[/IMG]
 
 
 [B]1.[/B] Download the ROM, Magisk (Optional).
@@ -42,23 +35,24 @@ Our whole team comprising of maintainers. source developers and designers can be
 
 [B]GAPPS ARE PREINCLUDED[/B]
 
-[IMG]https://raw.githubusercontent.com/StyxProject/stuff/master/art/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/credits.png[/IMG]
 
 We would like to thank the following ROMs, because if they weren't here, we couldn't be there too <3
 [LIST]
-[*][B][URL='https://github.com/AOSPA']Paranoid Android[/URL][/B]
 [*][URL='https://github.com/LineageOS'][B]LineageOS[/B][/URL]
-[*][URL='https://github.com/StormbreakerOSS'][B]StormbreakerOSS[/B][/URL]
-[*][URL='https://github.com/ProtonAOSP'][B]ProtonAOSP[/B][/URL]
-[*][URL='https://github.com/Wave-Project'][B]Wave Project[/B][/URL]
+[*][URL='https://github.com/ProjectSakura'][B]ProjectSakura[/B][/URL]
+[*][URL='https://github.com/POSP'][B]POSP[/B][/URL]
+[*][URL='https://github.com/SuperiorOS'][B]SuperiorOS[/B][/URL]
 [*][URL='https://github.com/PixelExperience'][B]Pixel Experience[/B][/URL]
+[*][URL='https://github.com/Styx-Project'][B]The Styx Project[/B][/URL]
+[*][URL='https://github.com/Fusion-OS'][B]Fusion OS[/B][/URL]
 [/LIST]
 
 
 [CENTER][SIZE=6]Source Code:[/SIZE]
-[SIZE=4][URL='https://github.com/StyxProject']ROM Source[/URL]
-[URL='https://github.com/StyxProject-Devices']Device Source[/URL]
+[SIZE=4][URL='https://github.com/CipherOS']ROM Source[/URL]
+[URL='https://github.com/CipherOS-Devices']Device Source[/URL]
 [URL='your kernel source link here']Kernel Source[/URL][/SIZE][/CENTER]
 
 [CENTER][SIZE=6]Donate:[/SIZE]
-[SIZE=4][URL='https://paypal.me/malviml']PayPal[/URL][/SIZE][/CENTER]
+[SIZE=4][URL='https://paypal.me/aspltd']PayPal[/URL][/SIZE][/CENTER]
