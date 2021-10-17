@@ -1,13 +1,13 @@
-![CipherOS](art/header.png)
+![CipherOS](art/cipher_twelve.jpg)
 
 ### Cipher OS
-CipherOS is a Android Custom OS, Based On AOSP & Fueled by Lineage, Striving to Provide its Users ,
+CipherOS is a Android Custom OS, Based On AOSP, Striving to Provide its Users ,
  A Clean , Bloat free & Sturdy Experience with Minimal Customisation !
 
 ### Special Instructions ~
 - To Add FaceUnlock - ```TARGET_FACE_UNLOCK_SUPPORTED := true```
 - To Build with GApps - ``` CIPHER_GAPPS := true ```
-- To Add Maintainer name in Settings - ``` ro.cipher.maintainer=TechyMinati ``` (Add this in System.prop)
+- To Add Maintainer name in Settings - ``` CIPHER_MAINTAINER := TechyMinati ```
 
 ### Submitting Patches ###
 ```
@@ -25,8 +25,4 @@ Credits
 -------
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
- * [**FusionOS**](https://github.com/Fusion-OS)
- * [**POSP**](https://github.com/POSP)
- * [**StyxOS**](https://github.com/styx-os)
- * [**Pixel Experience**](https://github.com/PixelExperience)
- * And the list never ends.
+ * [**POSP**](https://github.com/PotatoProject).

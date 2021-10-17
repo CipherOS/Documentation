@@ -1,6 +1,6 @@
-[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/header.png[/IMG]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/cipher_twelve.jpg[/IMG]
 [CENTER]
-CipherOS is a Android Custom OS, Based On AOSP & Fueled by Lineage, Striving to Provide its Users , A Clean , Bloat free & Sturdy Experience with Minimal Customisation ! 
+CipherOS is a Android Custom OS, Based On AOSP, Striving to Provide its Users , A Clean , Bloat free & Sturdy Experience with Minimal Customisation ! 
 
 [CODE]/* Your warranty is now void or maybe not?
 *
@@ -19,11 +19,12 @@ With the release of CipherOS INFERNO , We Ensure that Every OFFICIAL Device rema
 The people working towards bringing you this release are:
 [LIST]
 [*][URL='https://github.com/techyminati']Aryan Sinha[/URL] 
-[*][URL='https://github.com/radeon7']Lokesh Vazirani[/URL]
 [*][URL='https://github.com/CyberJalagam']Jaishanav Prasad[/URL]
-[*][URL='https://github.com/SparXFusion']Sakthivel Nadar[/URL]
 [*][URL='https://github.com/JamieHoSzeYui']Jamie Ho[/URL]
-[*][URL='https://github.com/bhenom69']Bhenom[/URL]
+[*][URL='https://github.com/surblazer']Matsvei Niaverau[/URL]
+[*][URL='https://github.com/kardebayan']Debayan Kar[/URL]
+[*][URL='https://github.com/bounty790']Bounty[/URL]
+
 [/LIST]
 [IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/installation.png[/IMG]
 
@@ -40,12 +41,7 @@ The people working towards bringing you this release are:
 We would like to thank the following ROMs, because if they weren't here, we couldn't be there too <3
 [LIST]
 [*][URL='https://github.com/LineageOS'][B]LineageOS[/B][/URL]
-[*][URL='https://github.com/ProjectSakura'][B]ProjectSakura[/B][/URL]
-[*][URL='https://github.com/POSP'][B]POSP[/B][/URL]
-[*][URL='https://github.com/SuperiorOS'][B]SuperiorOS[/B][/URL]
-[*][URL='https://github.com/PixelExperience'][B]Pixel Experience[/B][/URL]
-[*][URL='https://github.com/Styx-Project'][B]The Styx Project[/B][/URL]
-[*][URL='https://github.com/Fusion-OS'][B]Fusion OS[/B][/URL]
+[*][URL='https://github.com/PotatoProject'][B]POSP[/B][/URL]
 [/LIST]
 
 
